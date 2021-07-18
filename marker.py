@@ -3,6 +3,7 @@ import numpy as np
 
 ypt = np.array([3,8,1,10])
 
+
 # plt.plot(ypt,marker = 'o')
 # plt.show()
 
